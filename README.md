@@ -1,2 +1,2 @@
 # SQL_Clinica
-atividade da faculdade 
+atividade de Banco de Dados da faculdade 
